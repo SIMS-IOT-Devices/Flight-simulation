@@ -1,0 +1,18 @@
+Start ArduPilot MAVProxy in Terminal:
+cd ~/ardupilot/Tools/autotest
+sim_vehicle.py -v ArduCopter --map --console --no-rebuild	- Without compilation
+sim_vehicle.py -v ArduCopter --map --console			        - With compilation
+
+Modes:
+mode STABILIZE			                                      - Full manual
+mode ALT_HOLD			                                        - Attitude and yaw control
+mode LOITER			                                          - GPS position + altitude hold
+mode AUTO			                                            - Missions
+mode GUIDED			                                          - Computer-controlled flight
+
+Commands example:
+arm throttle
+disarm
+takeoff 10
+status
+
