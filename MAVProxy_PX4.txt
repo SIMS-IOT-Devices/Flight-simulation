@@ -1,0 +1,30 @@
+Demonstration of basic MavProxy PX4 commands
+
+Start PX4 MAVProxy in Terminal:
+cd ~/PX4-Autopilot
+make px4_sitl_default jmavsim
+
+Modes:
+commander mode manual
+commander mode offboard
+commander mode acro
+commander mode posctl
+
+Commands example:
+commander arm
+commander takeoff
+commander land
+
+Action key:
+Reset Vehicle 		- SPACE
+Translate N/S/E/W 	- SHIFT + Arrow Keys
+Pitch / Roll 		- Arrow Keys
+Yaw (Rotate) 		- END / PG-DN
+Move Up / Down 		- SHIFT INSERT / DELETE
+
+Information:
+listener vehicle_local_position
+commander status
+
+
+
