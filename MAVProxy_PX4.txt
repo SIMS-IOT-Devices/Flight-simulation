@@ -1,0 +1,12 @@
+SITL for flying the quadcopter with PX4 software in jMAVSim. 
+The Python script commands are up and down.
+
+Terminal #1
+Start PX4 MAVProxy in Terminal:
+cd ~/PX4-Autopilot
+make px4_sitl_default jmavsim
+
+Terminal #2
+The Python script is saved in:
+cd ~/Documents/Simulation/PyMavlink_PX4_2
+python3 my_PX4_2_1.py
