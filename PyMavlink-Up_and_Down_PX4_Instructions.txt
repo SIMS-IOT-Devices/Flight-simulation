@@ -9,4 +9,4 @@ make px4_sitl_default jmavsim
 Terminal #2
 The Python script is saved in:
 cd ~/Documents/Simulation/PyMavlink_PX4_2
-python3 my_PX4_2_5.py
+python3 PyMavlink-Up_and_Down_PX4.py
