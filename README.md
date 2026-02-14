@@ -11,4 +11,7 @@ Python program using PyMavlink to implement Up and Down commands for ArduPilot<b
 PyMavlink-Up_and_Down_PX4.py:<br>
 Python program using PyMavlink to implement Up and Down commands for PX4<br>
 PyMavlink-Up_and_Down_PX4_Instructions.txt:<br>
-Instructions to run a jMAVSim simulation and the Python script
+Instructions to run a jMAVSim simulation and the Python script<br>
+<br>
+ArduPiot-Square_Loitering.py:<br>
+Python program using PyMavlink to implement Square Loitering commands for ArduPilot<br>
