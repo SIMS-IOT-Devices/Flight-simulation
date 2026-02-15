@@ -15,3 +15,6 @@ Instructions to run a jMAVSim simulation and the Python script<br>
 <br>
 ArduPiot-Square_Loitering.py:<br>
 Python program using PyMavlink to implement Square Loitering commands for ArduPilot<br>
+<br>
+ArduPilot-Way_Points.py:<br>
+Python program using PyMavlink to implement Waypoints Loitering commands for ArduPilot<br>
