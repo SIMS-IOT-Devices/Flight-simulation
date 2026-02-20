@@ -1,4 +1,4 @@
-# ArduPilot flight of ArduCopter SITL simulation - Square Loitering - Ethrnet Out
+# ArduPilot flight of ArduCopter SITL simulation by watpoints in GUIDED mode
 
 from pymavlink import mavutil
 import time
