@@ -17,11 +17,11 @@ ArduPiot-Square_Loitering.py:<br>
 Python program using PyMavlink to implement Square Loitering commands for ArduPilot<br>
 <br>
 ArduPilot-Way_Points.py:<br>
-Python program using PyMavlink to implement Waypoints Loitering commands for ArduPilot<br>
+Python program using PyMavlink to implement Waypoints Loitering commands for ArduPilot in GUIDED<br>
 mission_waypoints:<br>
 Text file with mission waypoints
 <br>
-ArduPilot-Way_Points.py:<br>
-Python program using PyMavlink to implement Waypoints Loitering commands for ArduPilot<br>
+ArduPilot_Waypoints_AUTO.py:<br>
+Python program using PyMavlink to implement Waypoints Loitering commands for ArduPilot in AUTO mode<br>
 mission_waypoints.txt:<br>
 Text file with mission waypoints
