@@ -20,3 +20,8 @@ ArduPilot-Way_Points.py:<br>
 Python program using PyMavlink to implement Waypoints Loitering commands for ArduPilot<br>
 mission_waypoints:<br>
 Text file with mission waypoints
+<br>
+ArduPilot-Way_Points.py:<br>
+Python program using PyMavlink to implement Waypoints Loitering commands for ArduPilot<br>
+mission_waypoints.txt:<br>
+Text file with mission waypoints
