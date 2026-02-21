@@ -19,7 +19,7 @@ Python program using PyMavlink to implement Square Loitering commands for ArduPi
 ArduPilot-Way_Points.py:<br>
 Python program using PyMavlink to implement Waypoints Loitering commands for ArduPilot in GUIDED<br>
 mission_waypoints:<br>
-Text file with mission waypoints
+Text file with mission waypoints<br>
 <br>
 ArduPilot_Waypoints_AUTO.py:<br>
 Python program using PyMavlink to implement Waypoints Loitering commands for ArduPilot in AUTO mode<br>
